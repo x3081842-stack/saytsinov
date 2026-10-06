@@ -1,5 +1,5 @@
 const CONFIG = {
-  girlName: "Men sevgan qizga",
+  girlName: "sevgilim",
   boyName: "Xurshid",
   adminPassword: "sevgi2025",
 
